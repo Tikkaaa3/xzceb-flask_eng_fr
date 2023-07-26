@@ -1,4 +1,4 @@
-"""Translator
+"""TranslatoR
 """
 from deep_translator import MyMemoryTranslator
 
